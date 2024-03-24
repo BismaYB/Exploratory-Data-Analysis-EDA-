@@ -79,8 +79,8 @@ README.md : This file providing an overview of the project.
   
   ### 7. Note
   
-  this is a fictional dataset used strictly for to demonstrate beginner data analysis skills. The results are not 
-  official and should not be used to conclude actual relationships between the variables listed in ABC company 
+  This is a dataset used strictly for to demonstrate beginner data analysis skills. The results are not 
+  official and should not be used to conclude actual relationships between the variables listed in employee
   dataset.
 
   
